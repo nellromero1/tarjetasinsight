@@ -2894,7 +2894,7 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 .hero__profile {
-  width: 100%;
+  width: 106%;
 }
 
 @media only screen and (min-width: 400px) {
