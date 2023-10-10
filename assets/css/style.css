@@ -2894,7 +2894,7 @@ input[type=number]::-webkit-outer-spin-button {
 }
 
 .hero__profile {
-  width: 100%;
+  width: 106%;
 }
 
 @media only screen and (min-width: 400px) {
@@ -4772,7 +4772,7 @@ blockquote::before {
 }
 
 .services__card--icon.color1 {
-  background: #3DAE2B;
+  background: #48CDA0;
 }
 
 .services__card--icon.color1::before {
@@ -4931,7 +4931,7 @@ blockquote::before {
 }
 
 .services__card--link.color1 {
-  color: #3DAE2B;
+  color: #48CDA0;
 }
 
 .services__card--link.color1:hover {
@@ -4939,7 +4939,7 @@ blockquote::before {
 }
 
 .services__card--link.color1::before {
-  background: #3DAE2B;
+  background: #48CDA0;
 }
 
 .services__card--link.color2 {
